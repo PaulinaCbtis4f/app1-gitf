@@ -27,7 +27,7 @@
 });//document
 
 function escribehistoria(accion){
-  $('#Historia').append('<li>'+accion+'</li>');
+  $('#eHistoria').append('<li>'+accion+'</li>');
 }
 
 
